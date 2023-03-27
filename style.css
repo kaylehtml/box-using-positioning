@@ -1,0 +1,50 @@
+body {
+  background-color: lightcyan;
+}
+.main {
+  border: 2px solid blue;
+  width: 600px;
+  height: 300px;
+  position: relative;
+}
+.container {
+  width: 100px;
+  height: 300px;
+  position: absolute;
+}
+.box1 {
+  background-color: darkblue;
+  width: 100px;
+  height: 100px;
+}
+.box2 {
+  background-color: darkred;
+  width: 100px;
+  height: 100px;
+}
+.box3 {
+  background-color: darkblue;
+  height: 100px;
+  width: 100px;
+}
+.container2 {
+  width: 100px;
+  height: 300px;
+  position: absolute;
+  left: 500px;
+}
+.box4 {
+  background-color: darkred;
+  width: 100px;
+  height: 100px;
+}
+.box5 {
+  background-color: darkblue;
+  width: 100px;
+  height: 100px;
+}
+.box6 {
+  background-color: darkred;
+  width: 100px;
+  height: 100px;
+}
